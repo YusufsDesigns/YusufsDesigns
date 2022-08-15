@@ -15,6 +15,9 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
+  ## Contact me
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yusuf_Designs)
+  
 ## Stats
 [![Yusufs's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufsDesigns&show_icons=true&&theme=radical)](https://github.com/YusufsDesigns/github-readme-stats)
 [![YusufsDesigns wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YusufsDesigns&theme=radical)](https://github.com/YusufsDesigns/github-readme-stats)
