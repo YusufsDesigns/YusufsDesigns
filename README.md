@@ -4,5 +4,5 @@
 - 📫 You can connect with me on [Twitter](https://twitter.com/yusuf_Designs)
 
 
-[![Yusufs's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufsDesigns&show_icons=true)](https://github.com/YusufsDesigns/github-readme-stats)
-[![YusufsDesigns wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YusufsDesigns)](https://github.com/YusufsDesigns/github-readme-stats)
+[![Yusufs's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufsDesigns&show_icons=true&&theme=radical)](https://github.com/YusufsDesigns/github-readme-stats)
+[![YusufsDesigns wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YusufsDesigns&theme=radical)](https://github.com/YusufsDesigns/github-readme-stats)
