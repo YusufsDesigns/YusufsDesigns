@@ -1,4 +1,4 @@
-# Hi there👋 I'm Yusuf Lawal
+# <p align="center">Hi there👋 I'm Yusuf Lawal</p>
 ## About me
 - 🔭 I’m currently working on developing my skills further
 - 🌱 I’m currently learning JavaScript
