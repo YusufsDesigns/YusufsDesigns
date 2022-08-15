@@ -1,8 +1,5 @@
-# Hi there 👋
-
-Here are some ideas to get you started:
-
+# Hi there👋 I'm Yusuf Lawal
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: ...
+- 📫 You can connect with me on [Twitter](https://twitter.com/yusuf_Designs)
 
