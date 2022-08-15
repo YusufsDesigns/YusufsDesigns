@@ -2,7 +2,7 @@
 ## About me
 - 🔭 I’m currently working on developing my skills further
 - 🌱 I’m currently learning JavaScript
-- I love playing COD mobile and watching animes
+- 👌 I love playing COD mobile and watching animes
 - 📫 You can connect with me on [Twitter](https://twitter.com/yusuf_Designs)
 
 ## Tech stack
