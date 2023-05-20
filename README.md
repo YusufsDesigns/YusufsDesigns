@@ -6,6 +6,7 @@
 - 📫 You can connect with me on [Twitter](https://twitter.com/yusuf_Designs)
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yusuf-lawal-2b5ab6241/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/yusuf_Designs) 
 
@@ -15,6 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=YusufsDesigns&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YusufsDesigns&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufsDesigns&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YusufsDesigns&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/yusuf_Designs)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
