@@ -2,7 +2,6 @@
 ## About me
 - 🔭 I’m currently working on developing my skills further
 - 🌱 I’m currently learning react
-- 👌 I love playing COD mobile and watching animes
 - 📫 You can connect with me on [Twitter](https://twitter.com/yusuf_Designs)
 
 
