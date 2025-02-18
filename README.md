@@ -1,16 +1,12 @@
 # <p align="center">Hi there👋 I'm Yusuf Lawal</p>
 ## About me
-Passionate and dedicated frontend developer with a keen focus on creating engaging and user-friendly web experiences. Armed with a solid foundation in HTML, CSS, and JavaScript, I am committed to building intuitive and visually appealing interfaces that elevate user interactions.
+Fullstack Blockchain Developer dedicated to building the future of smart, secure, and decentralized applications.
 
-Embracing the principles of Next.js, I extend my expertise to leverage server-side rendering and optimized data fetching, ensuring seamless and performant web applications. My drive is fueled by a perpetual curiosity for the latest frontend technologies and trends, propelling me to explore and master new frameworks and libraries.
+Skilled in Solidity, the Foundry framework, and EVM-compatible chains, I specialize in developing and deploying robust smart contracts. With a strong foundation in blockchain technology and Web3, I focus on creating scalable, transparent, and innovative decentralized solutions.
 
-I aspire to merge technical expertise with creativity, delivering innovative solutions that result in delightful user experiences. In my project journey, I've refined my skills in responsive web design, prioritizing website performance, and guaranteeing cross-browser compatibility. Collaborating seamlessly with designers and backend developers, I transform ideas into reality, creating integrations that flow seamlessly.
+Complementing my blockchain expertise, I bring frontend and backend skills in React.JS, Next.js, TypeScript, and tools like Prisma ORM and Sanity.io, enabling seamless integration of Web2 and Web3 technologies.
 
-Possessing a meticulous eye for detail, I am passionate about crafting pixel-perfect designs. My commitment extends to writing clean, maintainable code, adhering to best practices to ensure scalability, and promoting code efficiency.
-
-Beyond coding, I'm an avid explorer of new design trends, an active participant in online coding communities, and a perpetual learner through continuous engagement in online courses and workshops. Thriving in collaborative environments, I enjoy sharing knowledge and ideas with fellow developers.
-
-Let's connect and embark on the journey of building something amazing together!
+Passionate about advancing the decentralized web, I am committed to delivering cutting-edge solutions that drive the future of technology.
 
 
 
